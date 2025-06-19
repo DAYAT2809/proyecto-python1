@@ -44,7 +44,7 @@ class Reserva:
         print(f"Reserva cancelada para la habitación {self.habitacion.numero}")
 
 # Crear una habitación y un cliente
-habitacion1 = Habitacion(901, "Compartida", 80PythonProject9)
+habitacion1 = Habitacion(901, "Compartida", 80)
 cliente1 = Cliente("Scarleth Tenecota", "1723456789")
 
 # Mostrar información
